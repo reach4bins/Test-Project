@@ -38,3 +38,8 @@ pred = loaded_model.predict({'calories': [1400]})
 
 
 
+
+
+#Bindu#
+
+#Samuel#
